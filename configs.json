@@ -6,8 +6,10 @@
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 1,
+
   "doTasks": true,
   "connectWallets": true,
+  
   "bindReferralCodes": true,
   "referralCodes": ["SC315", "NZVI4"]
 }
