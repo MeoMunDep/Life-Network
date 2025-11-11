@@ -107,7 +107,7 @@ docker run -d --name life-network-container -v $(pwd)/logs:/app/logs life-networ
 <details>
 <summary><strong>🗂️ 2. <code>datas.txt</code> - User Data</strong></summary>
 
-📥 [Guide from Telegram](https://t.me/KeoAirDropFreeNee/1586)
+📥 [Guide from Telegram](https://t.me/KeoAirDropFreeNee/2022)
 
 ```txt
 ey...
